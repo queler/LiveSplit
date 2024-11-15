@@ -318,6 +318,7 @@ public partial class TimerForm : Form
 
         Server = new CommandServer(CurrentState);
         Server.StartNamedPipe();
+        Server.StartTcp();
 
         new System.Timers.Timer(1000) { Enabled = true }.Elapsed += PerSecondTimer_Elapsed;
 

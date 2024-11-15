@@ -1,4 +1,4 @@
-﻿<h1> <img src="https://raw.githubusercontent.com/LiveSplit/LiveSplit/master/res/Icon.svg" alt="LiveSplit" height="42" align="top"/> LiveSplit</h1>
+﻿<h1> <img src="https://raw.githubusercontent.com/LiveSplit/LiveSplit/master/res/Icon.svg" alt="LiveSplit" height="42" align="top"/> LiveSplitTCP</h1>
 
 [![GitHub release](https://img.shields.io/github/release/LiveSplit/LiveSplit.svg)](https://github.com/LiveSplit/LiveSplit/releases/latest)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/LiveSplit/LiveSplit/master/LICENSE)
@@ -11,6 +11,8 @@ LiveSplit is a timer program for speedrunners that is both easy to use and full 
 </p>
 
 ## Features
+
+**TCP SERVER ON BY DEFAULT!!!!!**
 
 **Speedrun.com Integration:** [Speedrun.com](http://speedrun.com) is fully integrated into LiveSplit. You can browse their leaderboards, download splits, and even submit your own runs directly from LiveSplit. You can also show the World Records for the games you run with the World Record Component.
 
